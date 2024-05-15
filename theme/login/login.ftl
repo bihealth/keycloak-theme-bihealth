@@ -78,7 +78,7 @@
         <p style="margin-bottom: 0px;">
             You can contact us at any time by an email to the following address
             to have your information removed:
-            <a href="mailto:hpc-helpdesk@bihealth.org">hpc-helpdesk@bihealth.org</a>.
+            <a href="mailto:hpc-helpdesk@bih-charite.de">hpc-helpdesk@bih-charite.de</a>.
         </p>
         <hr>
 
